@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "DisplayName": "Jar Executable",
+        "Category": "JAR",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "jar",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "jar",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "DFS.jar",
+        "EnumValues": {}
+    }
+]
